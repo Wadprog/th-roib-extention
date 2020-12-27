@@ -1,0 +1,27 @@
+{
+  "name": "roib",
+  "version": "1.0.0",
+  "description": "Chrome extention to refund various orders all together base on a criteria ",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wadprog/th-roib-extention.git"
+  },
+  "keywords": [
+    "Refund",
+    "Tophatter",
+    "Order"
+  ],
+  "author": "Wadson Vaval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wadprog/th-roib-extention/issues"
+  },
+  "homepage": "https://github.com/Wadprog/th-roib-extention#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
